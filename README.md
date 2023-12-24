@@ -1,4 +1,4 @@
-# weather_app
+# World Time App
 
 Simple Demo App to check time in different locations
 
